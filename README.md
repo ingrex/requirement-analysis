@@ -1,6 +1,9 @@
 ** Requirement Analysis in Software Development**
+
 ** Introduction**
+
 This repository explores Requirement Analysis in software development. It serves as a foundational guide to understanding how requirements are gathered, analyzed, and validated during the Software Development Lifecycle (SDLC). Through examples and visuals, the content here helps developers, analysts, and stakeholders understand how to define project goals and ensure alignment with business needs.
+
 
 ** What is Requirement Analysis?**
 Requirement Analysis is a critical phase in the SDLC where the needs and expectations of stakeholders are gathered, analyzed, and documented to ensure the development team builds the right product.
