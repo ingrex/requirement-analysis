@@ -1,6 +1,8 @@
 Requirement Analysis in Software
 
 
+**Key Activities in Requirement Analysis.**
+
 # Requirement Analysis in Software Development
 
 ## Introduction
